@@ -1,0 +1,5 @@
+license.py
+.ipynb_checkpoints
+Test.ipynb
+__pycache__
+.DS_Store
